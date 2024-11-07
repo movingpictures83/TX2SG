@@ -1,0 +1,2 @@
+Prefix plugins/TX2SG/example/
+Plugin TX2SG inputfile HG19.rds outputfile SG19
